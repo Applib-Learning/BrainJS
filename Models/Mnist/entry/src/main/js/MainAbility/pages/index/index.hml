@@ -1,0 +1,8 @@
+<div class="container">
+    <text class="title">
+        {{ title }}
+    </text>
+    <button class="btn" onclick="mnistTrain" value="Train"></button>
+    <button class="btn" onclick="logmodel" value="Log Model"></button>
+    <button class="btn" onclick="predict" value="Predict Model"></button>
+</div>

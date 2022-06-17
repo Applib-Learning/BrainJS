@@ -1,0 +1,13 @@
+{
+  "name": "@ohos/hardwaresoftware",
+  "description": "a npm package which contains arkUI1.0 page",
+  "ohos": {
+    "org": ""
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "",
+  "repository": {},
+  "license": "ISC",
+  "dependencies": {}
+}

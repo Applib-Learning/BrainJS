@@ -1,0 +1,7 @@
+<div class="container">
+    <text class="txt">{{Output}}</text>
+    <button class="btn" value="Train" onclick="trainXor"></button>
+    <button class="btn" value="Load" onclick="loadXor"></button>
+    <button class="btn" value="Back" onclick="back"></button>
+<!--    <input type="text"></input>-->
+</div>
