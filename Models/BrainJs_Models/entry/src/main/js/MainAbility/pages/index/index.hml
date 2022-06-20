@@ -1,0 +1,9 @@
+<div class="container">
+    <text class="txt">Models</text>
+    <button class="btn" value="XOR" onclick="launchXor"></button>
+    <button class="btn" value="Color Contrast" onclick="launchColorContrast"></button>
+    <button class="btn" value="Problem Prediction" onclick="launchHardwareSoftware"></button>
+    <button class="btn" value="Predict Next Number" onclick="launchNextNumber"></button>
+    <button class="btn" value="First Letter" onclick="launchFirstLetter"></button>
+<!--    <input type="text"></input>-->
+</div>

@@ -1,0 +1,6 @@
+<div class="container">
+    <text class="title">
+        {{ title }}
+    </text>
+    <button class="btn"onclick="hspredict" value="Predict"></button>
+</div>
